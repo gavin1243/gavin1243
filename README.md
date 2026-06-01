@@ -41,16 +41,17 @@ Stack
 
 ---
 
-### 📌 A few things I've built
+### 📌 Projects
 
-| Project | What it does |
-|---|---|
-| Geospatial Provider Matching | KDTree + Google Maps API, 38% lift in service quality |
-| B2B Recommendation Engine | BERT + LDA over 1.5M reviews, 30% faster time-to-market |
-| Insurance Fraud Classification | Deep learning classifier to prevent financial loss from auto insurance fraud |
-| Message Authenticity Detection | NLP model to detect fake or manipulated messages |
-| Manchester City Tactics Analysis | R-based data viz exploring City's centurion season stats |
-| Restaurant Database System | End-to-end SQL database and Tableau dashboard for food delivery operations |
+| Project | Tools | |
+|---|---|---|
+| Prediction of Customer Behavior and Coupon Usage through In-Vehicle Recommendations | Python, TensorFlow, scikit-learn, Matplotlib | [repo](https://github.com/gavin1243/Prediction-of-Customer-behavior-and-Coupon-Usage-through-In-Vehicle-Recommendations) |
+| Detection of Message Authenticity: A Modern Approach | Python, Keras, TensorFlow, NLTK, scikit-learn | [repo](https://github.com/gavin1243/Detection-of-Message-Authenticity-A-Modern-Approach-) |
+| Preventing Financial Loss through Automobile Insurance Fraud Classification | Python, TensorFlow, scikit-learn, Keras, SciPy | [repo](https://github.com/gavin1243/Preventing-Financial-Loss-through-Automobile-Insurance-Fraud-Classification) |
+| Early Detection of Autism Spectrum Disorder Using Deep Learning | Python, TensorFlow, scikit-learn, Matplotlib | [repo](https://github.com/gavin1243/Early-Detection-of-Autism-Spectrum-Disorder-Using-Deep-Learning) |
+| Exploring Manchester City's Centurion Season Achievements and Tactics | R, ggplot2, dplyr, lubridate | [repo](https://github.com/gavin1243/Exploring-Manchester-City-s-Centurion-Season-Achievements-and-Tactics) |
+| Electricity Generation and Consumption Patterns in the United States | Tableau, Datawrapper, Flourish | [site](https://sites.google.com/view/electricity-us/home) |
+| Restaurant and Food Delivery Database System | MS SQL, Tableau | [repo](https://github.com/gavin1243/Restaurant-and-Food-Delivery-Database-Management-System) |
 
 ---
 
@@ -59,18 +60,3 @@ Stack
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gavindsa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gavindsa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gavin1243.github.io-7C6AF5?style=flat&logo=github&logoColor=white)](https://gavin1243.github.io)
 [![Email](https://img.shields.io/badge/Email-gavin.dsa26@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gavin.dsa26@gmail.com)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavin1243&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavin1243&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <i>Also always down to talk football, basketball, food, or music.</i>
-</p>
